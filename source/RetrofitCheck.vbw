@@ -1,0 +1,8 @@
+frmMain = 0, 0, 422, 322, , 132, 132, 554, 454, 
+ExecAndWait = 22, 22, 444, 344, 
+DiffGenerator = 44, 44, 466, 366, 
+DiffProcessor = 66, 66, 488, 388, 
+Utils = 88, 88, 510, 410, 
+SSafeTree = 88, 88, 470, 410, Z, 0, 0, 382, 322, C
+SSafeList = 66, 66, 490, 388, , 44, 44, 426, 366, 
+frmSSafeProjectSelector = 66, 66, 440, 388, , 154, 154, 511, 476, 
